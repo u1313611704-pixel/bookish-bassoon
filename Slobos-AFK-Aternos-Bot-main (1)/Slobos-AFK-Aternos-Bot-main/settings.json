@@ -3,11 +3,14 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "offline"
+    "type": "mojang",
+
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "octopietech.aternos.me:23936",
+    "port": 23936
+
+,
     "version": "",
     "try-creative": false
   },
